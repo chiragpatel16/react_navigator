@@ -1,0 +1,101 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Men's Cotton Jacket",
+      "price": 2599,
+      "description": "Stylish men's cotton jacket with a comfortable fit and modern design.",
+      "category": "men's clothing",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQpC3RdS7n7mAzUAMk4Dqm2kaK8n8XIMkjA&s"
+
+    },
+    {
+      "id": 2,
+      "title": "Men's Casual T-Shirt",
+      "price": 899,
+      "description": "Soft cotton men's t-shirt, perfect for daily wear.",
+      "category": "men's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThITPukR55j-kTEq9VLcyN2YVbAs7dnBaB2A&s"
+    },
+    {
+      "id": 3,
+      "title": "Men's Sneakers",
+      "price": 2999,
+      "description": "Lightweight and durable sneakers for men, ideal for running and casual outings.",
+      "category": "men's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLs-uB3koP8nc7xgZV6GLjeSDXn91FuJ-nBg&s"
+    },
+    {
+      "id": 4,
+      "title": "Women's Summer Dress",
+      "price": 1999,
+      "description": "Lightweight and comfortable summer dress, perfect for casual wear.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8o6rctIlh4KGlyTWDm1OzAYM_r_vRMGXkAQ&s"
+    },
+    {
+      "id": 5,
+      "title": "Women's Leather Handbag",
+      "price": 3499,
+      "description": "Premium leather handbag with spacious compartments.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3-FDrvKKreFlNy7exTh9TTyogVQU5XMShA&s"
+    },
+    {
+      "id": 6,
+      "title": "Women's High Heels",
+      "price": 2799,
+      "description": "Elegant high heel shoes for parties and events.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2HktEux8TSndKOlVMysLLeLYvnGJxw1bJhQ&s"
+    },
+    {
+      "id": 7,
+      "title": "Wireless Headphones",
+      "price": 3499,
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "category": "electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJVzLCcnd_AHD-hTXbK8fC4cdUKvesAYdFA&s"
+    },
+    {
+      "id": 8,
+      "title": "Smartphone",
+      "price": 15999,
+      "description": "Latest model smartphone with high-resolution display and fast processor.",
+      "category": "electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnoocq6ORqcj4KBAUvvCRqyBrcpO-e-lCdA&s"
+    },
+    {
+      "id": 9,
+      "title": "Smartwatch",
+      "price": 4999,
+      "description": "Stylish smartwatch with health tracking features and notifications.",
+      "category": "electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ChbQQab9yuZIKS-6tRSzGUXqNgs8FrsEcA&s"
+    },
+    {
+      "id": 10,
+      "title": "Gold Plated Necklace",
+      "price": 4999,
+      "description": "Elegant gold-plated necklace with intricate design, perfect for special occasions.",
+      "category": "jewelry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GMYwgFUgmYqPNAL8nf57tiod3wySIElcaA&s"
+    },
+    {
+      "id": 11,
+      "title": "Diamond Ring",
+      "price": 14999,
+      "description": "Beautiful diamond ring with a premium finish.",
+      "category": "jewelry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoGhQZ4kXaToaz_MRb7LmKM8CJUYzrgXApw&s"
+    },
+    {
+      "id": 12,
+      "title": "Silver Bracelet",
+      "price": 2999,
+      "description": "Trendy silver bracelet with a modern design.",
+      "category": "jewelry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYX2JJNC4plQRuqRqpJXWqxj1iTSddjQ042Q&s"
+    }
+  ]
+}

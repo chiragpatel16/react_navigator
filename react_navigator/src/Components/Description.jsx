@@ -8,7 +8,7 @@ const Description = () => {
 
   async function fetchDescription() {
     try {
-      const res = await axios.get(`http://localhost:3000/product/${id}`);
+      const res = await axios.get(`http://localhost:3000/product${id}`);
       setdata(res.data);
     } catch (error) {
       console.log(error);
@@ -28,6 +28,7 @@ const Description = () => {
         <h3>{data.title}</h3>
         <span>Price : ₹{data.price}</span>
         <p>{data.description}</p>
+              <p>{data.category}</p>
       </div>
       <div style={{ marginTop: "10px" }}>
         <Link to={`/addproduct/${data.id}`}>
